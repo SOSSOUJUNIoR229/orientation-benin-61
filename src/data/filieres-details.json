@@ -605,7 +605,7 @@
     "name": "Foresterie Tropicale",
     "slug": "foresterie-tropicale",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "Formation spécialisée en gestion durable des forêts tropicales, conservation de la biodiversité et exploitation raisonnée des ressources forestières. Filière environnementale stratégique.",
+    "description": "Cette filière universitaire s’inscrit dans les sciences environnementales et forme des spécialistes de la gestion durable des écosystèmes forestiers tropicaux. Elle repose sur des enseignements en écologie, dendrologie, cartographie, droit forestier et économie rurale. Les étudiants sont préparés à intervenir dans les politiques de conservation, les projets de reforestation et les études d’impact environnemental.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Ingénieur forestier",
@@ -632,7 +632,7 @@
     "name": "Mathématiques",
     "slug": "mathematiques",
     "category": "Sciences Exactes et Naturelles",
-    "description": "Formation fondamentale en mathématiques pures et appliquées, développant l'abstraction, la logique et la résolution de problèmes complexes. Base solide pour de nombreuses carrières scientifiques.",
+    "description": " Discipline académique fondamentale, les mathématiques développent la pensée abstraite, la logique formelle et la capacité de modélisation. Le cursus universitaire couvre l’analyse, l’algèbre, les probabilités, la géométrie et les mathématiques appliquées. Cette formation est essentielle pour les carrières en recherche, en ingénierie, en économie quantitative ou en informatique théorique",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur de mathématiques",
@@ -659,7 +659,7 @@
     "name": "Physique",
     "slug": "physique",
     "category": "Sciences Exactes et Naturelles",
-    "description": "Formation en physique fondamentale et appliquée, explorant les lois de l'univers depuis l'infiniment petit jusqu'à l'infiniment grand. Développe l'esprit scientifique et la modélisation.",
+    "description": "La physique est une science expérimentale et théorique qui étudie les lois naturelles de l’univers. Elle s’appuie sur des méthodes rigoureuses de modélisation, de mesure et de simulation. Les étudiants abordent la mécanique, l’électromagnétisme, la thermodynamique, la physique quantique et la physique des matériaux. Cette filière ouvre vers les métiers de la recherche, de l’ingénierie et de l’enseignement scientifique..",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Physicien chercheur",
@@ -686,7 +686,7 @@
     "name": "Chimie",
     "slug": "chimie",
     "category": "Sciences Exactes et Naturelles",
-    "description": "Formation en sciences chimiques, de la chimie fondamentale aux applications industrielles. Développe l'expertise en synthèse, analyse et transformation de la matière.",
+    "description": "La chimie universitaire explore les propriétés, la structure et les transformations de la matière. Elle combine théorie et pratique à travers des travaux en laboratoire, des analyses spectroscopiques et des synthèses chimiques. Les domaines couverts incluent la chimie organique, minérale, analytique et physique. Les diplômés peuvent évoluer dans les secteurs pharmaceutique, agroalimentaire, pétrochimique ou environnemental",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Chimiste industriel",
@@ -713,7 +713,7 @@
     "name": "Biologie",
     "slug": "biologie",
     "category": "Sciences Exactes et Naturelles",
-    "description": "Formation complète en sciences de la vie, de la biologie cellulaire à l'écologie. Développe la compréhension du vivant et prépare aux biotechnologies modernes.",
+    "description": "La biologie est une science du vivant qui repose sur l’observation, l’expérimentation et l’analyse des mécanismes biologiques. Le cursus universitaire inclut la génétique, la microbiologie, la biologie cellulaire, la physiologie et l’écologie. Cette filière prépare aux métiers de la santé, de la recherche biomédicale, de l’agronomie et de la conservation de la biodiversité.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Biologiste de recherche",
@@ -740,7 +740,7 @@
     "name": "Philosophie",
     "slug": "philosophie",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en pensée critique, éthique et réflexion fondamentale sur l'existence humaine. Développe l'argumentation, l'analyse conceptuelle et la sagesse pratique.",
+    "description": "La philosophie est une discipline académique qui interroge les fondements du savoir, de l’éthique, du langage et de la société. Elle développe la capacité de raisonnement, d’analyse critique et d’argumentation. Les étudiants explorent les grands courants de pensée, la logique formelle, la philosophie politique et la métaphysique. Elle est souvent associée aux sciences humaines et sociales, à la recherche et à l’enseignement.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur de philosophie",
@@ -767,7 +767,7 @@
     "name": "Histoire",
     "slug": "histoire",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en recherche historique, analyse des sources et compréhension des évolutions sociétales. Développe l'esprit critique et la méthode scientifique appliquée au passé.",
+    "description": "L’histoire universitaire est une science humaine qui analyse les faits passés à partir de sources critiques. Elle forme à la compréhension des dynamiques sociales, politiques, économiques et culturelles. Le programme inclut l’historiographie, l’histoire africaine, l’histoire mondiale et les méthodes de recherche historique. Les débouchés incluent l’enseignement, la recherche, le patrimoine et les métiers de la culture.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur d'histoire",
@@ -794,7 +794,7 @@
     "name": "Géographie",
     "slug": "geographie",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en analyse spatiale, aménagement du territoire et géomatique. Combine sciences humaines et outils techniques pour comprendre l'organisation de l'espace.",
+    "description": "La géographie académique étudie les interactions entre les sociétés humaines et leur environnement. Elle mobilise des outils d’analyse spatiale, des systèmes d’information géographique (SIG) et des enquêtes de terrain. Les étudiants abordent la géographie physique, humaine, économique et politique. Cette filière est pertinente pour les métiers de l’aménagement du territoire, de l’environnement et de la planification urbaine.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Géographe aménageur",
@@ -821,7 +821,7 @@
     "name": "Anglais",
     "slug": "anglais",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation approfondie en langue, littérature et civilisation anglophone. Développe une maîtrise experte de l'anglais et une compréhension interculturelle.",
+    "description": "La filière d’anglais est une formation en langues, littératures et civilisations anglophones. Elle repose sur l’étude approfondie de la grammaire, de la linguistique, de la traduction, de la littérature britannique, américaine et africaine, ainsi que sur l’analyse des discours. Elle prépare les étudiants à maîtriser les outils linguistiques et culturels nécessaires dans les contextes académiques et internationaux.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur d'anglais",
@@ -848,7 +848,7 @@
     "name": "Français",
     "slug": "francais",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en langue française, littérature francophone et sciences du langage. Développe l'excellence en expression écrite et orale, ainsi que l'analyse littéraire.",
+    "description": "La filière de français est centrée sur l’étude de la langue, de la littérature francophone et de la linguistique. Elle développe des compétences en analyse textuelle, en stylistique, en critique littéraire et en rédaction académique. Elle permet de comprendre les enjeux culturels et historiques liés à la langue française dans l’espace béninois et francophone.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur de français",
@@ -875,7 +875,7 @@
     "name": "Sciences de l'Éducation",
     "slug": "sciences-education",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en pédagogie, didactique et sciences cognitives appliquées à l'éducation. Prépare aux métiers de l'enseignement et de la formation professionnelle.",
+    "description": "Cette filière universitaire étudie les fondements théoriques et pratiques de l’enseignement et de l’apprentissage. Elle mobilise des approches pédagogiques, psychologiques et sociologiques pour analyser les systèmes éducatifs, les méthodes didactiques et les politiques scolaires. Elle est essentielle pour la formation des enseignants et des cadres éducatifs.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Professeur formateur",
@@ -902,7 +902,7 @@
     "name": "Psychologie",
     "slug": "psychologie",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en sciences psychologiques, comprenant psychologie clinique, cognitive, sociale et développementale. Développe la compréhension du comportement humain.",
+    "description": "La psychologie est une science humaine qui explore les processus mentaux, les comportements et les relations interpersonnelles. Elle s’appuie sur des méthodes expérimentales, cliniques et statistiques pour comprendre le fonctionnement psychique des individus. Le cursus inclut la psychologie du développement, cognitive, sociale et pathologique.",
     "duration": "5 ans",
     "careerOpportunities": [
       "Psychologue clinicien",
@@ -929,7 +929,7 @@
     "name": "Sociologie",
     "slug": "sociologie",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en analyse des sociétés, des institutions et des comportements collectifs. Développe la compréhension des dynamiques sociales et des transformations contemporaines.",
+    "description": "La sociologie est une discipline qui analyse les structures sociales, les normes, les institutions et les dynamiques collectives. Elle repose sur des enquêtes de terrain, des analyses statistiques et des théories critiques pour comprendre les transformations sociales au Bénin et dans le monde. Elle est au cœur des études sur le développement, la famille, l’éducation et les politiques publiques.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Sociologue chercheur",
@@ -956,7 +956,7 @@
     "name": "Archéologie",
     "slug": "archeologie",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en fouilles archéologiques, analyse du patrimoine matériel et reconstitution historique. Développe l'expertise en conservation et valorisation du patrimoine.",
+    "description": "L’archéologie universitaire étudie les vestiges matériels des civilisations anciennes pour reconstituer leur histoire. Elle combine fouilles, datations, analyses d’objets et interprétations culturelles. Au Bénin, elle contribue à la valorisation du patrimoine historique, notamment des royaumes précoloniaux et des sites classés.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Archéologue de terrain",
@@ -983,7 +983,7 @@
     "name": "Arts Plastiques",
     "slug": "arts-plastiques",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en création artistique, histoire de l'art et techniques plastiques. Développe l'expression artistique personnelle et la compréhension des mouvements artistiques.",
+    "description": "Cette filière forme à la création artistique à travers le dessin, la peinture, la sculpture et les arts visuels. Elle intègre l’histoire de l’art, la théorie esthétique et les techniques de production. Elle encourage l’expression personnelle et la réflexion critique sur les formes artistiques dans le contexte béninois et africain.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Artiste plasticien",
@@ -1010,7 +1010,7 @@
     "name": "Musique",
     "slug": "musique",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en pratique musicale, théorie musicale et histoire de la musique. Développe l'excellence instrumentale ou vocale et la culture musicale approfondie.",
+    "description": "La musique est une discipline qui allie théorie musicale, pratique instrumentale, ethnomusicologie et composition. Elle explore les traditions musicales béninoises, les courants contemporains et les techniques d’interprétation. Le cursus favorise la maîtrise du langage musical et la compréhension des enjeux culturels liés à la musique.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Musicien professionnel",
@@ -1037,7 +1037,7 @@
     "name": "Théâtre",
     "slug": "theatre",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en art dramatique, mise en scène et histoire du théâtre. Développe l'expression scénique, l'interprétation et la direction d'acteurs.",
+    "description": "La filière théâtre étudie l’art dramatique sous ses dimensions théoriques et pratiques. Elle aborde la mise en scène, l’interprétation, l’histoire du théâtre et l’analyse des textes dramatiques. Elle permet aux étudiants de développer leur expression corporelle, leur sens critique et leur créativité scénique.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Comédien professionnel",
@@ -1064,7 +1064,7 @@
     "name": "Communication",
     "slug": "communication",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en stratégies de communication, médias et relations publiques. Développe l'expertise en création de messages et gestion de l'image organisationnelle.",
+    "description": "La communication est une discipline universitaire qui étudie les processus de transmission de l’information entre individus, groupes et institutions. Elle mobilise des approches théoriques et pratiques pour analyser les discours, les médias, les stratégies de persuasion et les dynamiques sociales. Le cursus inclut la sémiologie, la communication interculturelle, la rhétorique, les technologies de l’information et les relations publiques.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Responsable communication",
@@ -1091,7 +1091,7 @@
     "name": "Journalisme",
     "slug": "journalisme",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation en techniques journalistiques, éthique de l'information et investigation. Développe l'expertise en collecte, vérification et diffusion de l'information.",
+    "description": "Le journalisme est une filière qui forme à la collecte, au traitement et à la diffusion de l’information dans un cadre éthique et professionnel. Elle repose sur des enseignements en écriture journalistique, investigation, déontologie, édition et production multimédia. Les étudiants apprennent à contextualiser les faits, à vérifier les sources et à produire des contenus adaptés aux différents supports médiatiques.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Journaliste reporter",
@@ -1118,7 +1118,7 @@
     "name": "Sciences Politiques",
     "slug": "sciences-politiques",
     "category": "Sciences Juridiques et Politiques",
-    "description": "Formation en analyse politique, relations internationales et théories du pouvoir. Développe la compréhension des systèmes politiques et des enjeux géopolitiques.",
+    "description": "Les sciences politiques sont une discipline des sciences sociales qui analyse les systèmes de pouvoir, les institutions, les idéologies et les comportements politiques. Le cursus universitaire couvre la théorie politique, la sociologie politique, les politiques publiques, le droit constitutionnel et les relations entre gouvernants et gouvernés. Cette filière développe une compréhension critique des enjeux de gouvernance et de citoyenneté.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Conseiller politique",
@@ -1145,7 +1145,7 @@
     "name": "Relations Internationales",
     "slug": "relations-internationales",
     "category": "Sciences Juridiques et Politiques",
-    "description": "Formation en diplomatie, coopération internationale et résolution de conflits. Développe l'expertise en négociation internationale et gestion des relations entre États.",
+    "description": "La filière des relations internationales étudie les interactions entre États, organisations internationales, entreprises transnationales et acteurs non étatiques. Elle s’appuie sur des fondements en droit international, géopolitique, diplomatie, économie mondiale et coopération régionale. Les étudiants sont formés à analyser les enjeux globaux, les négociations internationales et les dynamiques de sécurité et de développement.",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Diplomate",
@@ -1172,7 +1172,7 @@
     "name": "Droit des Affaires",
     "slug": "droit-affaires",
     "category": "Sciences Juridiques et Politiques",
-    "description": "Spécialisation en droit commercial, fiscalité des entreprises et droit des sociétés. Développe l'expertise juridique appliquée au monde des affaires et de l'entreprise.",
+    "description": "Le droit des affaires est une spécialisation juridique qui porte sur les règles encadrant les activités économiques et commerciales. Elle intègre le droit des sociétés, le droit fiscal, le droit bancaire, le droit du travail et le droit des contrats. Le cursus universitaire met l’accent sur l’analyse juridique, la rédaction d’actes, la régulation des marchés et la conformité aux normes régionales comme l’OHADA.",
     "duration": "5 ans",
     "careerOpportunities": [
       "Juriste d'entreprise",
